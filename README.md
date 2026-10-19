@@ -7,18 +7,18 @@ Most tipster sites show you the wins. This repository exists for the opposite re
 ## Current numbers
 
 <!-- summary:start -->
-_Settled predictions up to 2026-10-11. Lower log loss and Brier are better._
+_Settled predictions up to 2026-10-18. Lower log loss and Brier are better._
 
 | Competition | Matches | Favourite correct | Log loss (1X2) | Brier (1X2) | vs. guessing (1.099) |
 |---|---:|---:|---:|---:|---|
-| **All** | 172 | 54.1% | 0.958 | 0.569 | better |
+| **All** | 228 | 56.1% | 0.943 | 0.559 | better |
+| La Liga | 37 | 56.8% | 0.880 | 0.518 | better |
+| 2. Bundesliga | 36 | 50.0% | 1.042 | 0.622 | better |
+| Bundesliga | 36 | 58.3% | 0.967 | 0.580 | better |
 | UEFA Nations League A | 32 | 68.8% | 0.780 | 0.445 | better |
-| La Liga | 28 | 57.1% | 0.897 | 0.534 | better |
-| 2. Bundesliga | 27 | 44.4% | 1.057 | 0.633 | better |
-| Bundesliga | 27 | 55.6% | 0.979 | 0.587 | better |
-| Serie A | 20 | 45.0% | 1.027 | 0.610 | better |
-| Premier League | 20 | 45.0% | 1.122 | 0.687 | worse |
-| Ligue 1 | 18 | 55.6% | 0.929 | 0.545 | better |
+| Serie A | 30 | 50.0% | 0.969 | 0.573 | better |
+| Premier League | 30 | 46.7% | 1.087 | 0.663 | better |
+| Ligue 1 | 27 | 63.0% | 0.872 | 0.508 | better |
 <!-- summary:end -->
 
 Guessing one third for every outcome scores a log loss of 1.099. Below that, a forecast carries information; above it, it did worse than guessing for that sample. Small samples swing a lot – a few hundred matches are needed before these numbers mean much.
