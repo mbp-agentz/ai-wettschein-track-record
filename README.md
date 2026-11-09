@@ -7,17 +7,17 @@ Most tipster sites show you the wins. This repository exists for the opposite re
 ## Current numbers
 
 <!-- summary:start -->
-_Settled predictions up to 2026-11-01. Lower log loss and Brier are better._
+_Settled predictions up to 2026-11-08. Lower log loss and Brier are better._
 
 | Competition | Matches | Favourite correct | Log loss (1X2) | Brier (1X2) | vs. guessing (1.099) |
 |---|---:|---:|---:|---:|---|
-| **All** | 387 | 57.6% | 0.938 | 0.554 | better |
-| Serie A | 68 | 63.2% | 0.902 | 0.523 | better |
-| La Liga | 67 | 58.2% | 0.889 | 0.524 | better |
-| Premier League | 59 | 50.8% | 1.024 | 0.616 | better |
-| 2. Bundesliga | 54 | 51.9% | 1.031 | 0.615 | better |
-| Bundesliga | 54 | 51.9% | 1.011 | 0.609 | better |
-| Ligue 1 | 53 | 62.3% | 0.875 | 0.510 | better |
+| **All** | 449 | 58.1% | 0.932 | 0.549 | better |
+| Serie A | 80 | 62.5% | 0.914 | 0.531 | better |
+| La Liga | 78 | 57.7% | 0.891 | 0.524 | better |
+| Premier League | 70 | 51.4% | 1.013 | 0.608 | better |
+| 2. Bundesliga | 63 | 54.0% | 1.020 | 0.608 | better |
+| Bundesliga | 63 | 57.1% | 0.953 | 0.566 | better |
+| Ligue 1 | 63 | 60.3% | 0.884 | 0.517 | better |
 | UEFA Nations League A | 32 | 68.8% | 0.780 | 0.445 | better |
 <!-- summary:end -->
 
